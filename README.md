@@ -30,19 +30,10 @@ A simple starter kit for Web3 apps to support wallet-based login and backend sig
 ## Tech Stack
 
 Frontend:
-JavaScript, WXML, WXSS, React/Vue if applicable
+JavaScript, WXML, WXSS, React/Vue 
 
 Backend:
 Python, Flask, MongoDB, REST API
 
 Blockchain:
 Solidity, Ethereum, Ganache, Web3.py, Keccak-256, Merkle Tree
-
-## What I'm Looking For
-
-I’m interested in:
-- Web3 bounty tasks
-- Hackathon projects
-- DApp frontend development
-- Wallet login integration
-- DID and identity-related projects
